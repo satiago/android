@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="listitems">
+        <item>用户信息</item>
+        <item>软件信息</item>
+    </string-array>
+    
+</resources>

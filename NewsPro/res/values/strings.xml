@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">NewsPro</string>
+    <string name="text">NewsPro</string>
+    <string name="about">关于</string>
+    <string name="title">新闻浏览</string>
+    <string name="back">返回</string>
+    
+    <string name="CopyRight">Copyright (c) 2014年 satiago. All rights reserved.</string>
+
+</resources>
